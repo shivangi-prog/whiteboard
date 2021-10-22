@@ -1,4 +1,4 @@
-#Real time currency convertor using Tkinter
+#Real time currency convertor(dynamic) using Tkinter
 # import all functions from the tkinter
 from tkinter import *
  
