@@ -1,1 +1,1 @@
-# whiteboard
+# python tkinter projects
